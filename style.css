@@ -1,0 +1,78 @@
+body {
+    font-family: DM Sans;
+    margin: 0%;
+
+}
+
+.headStyle {
+    font-size: 40px;
+}
+
+.spanStyle {
+    color: green;
+}
+
+.ParagrapsStyle {
+    text-align: justify;
+}
+
+.section1Style {
+    display: flex;
+    padding-left: 3%;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    margin-bottom: 100px;
+
+
+}
+
+.half-widht {
+    width: 60%;
+    margin: 5%;
+}
+
+.half-widht img {
+    width: 90%;
+}
+
+.anchorStyle {
+    text-decoration: none;
+    color: rgb(184, 29, 29);
+    padding: 10px 40px;
+    background: linear-gradient(green, yellow);
+    font-weight: 700;
+    border-radius: 10px;
+}
+
+.section2drimbig {
+    display: flex;
+    padding-left: 3%;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    margin-bottom: 150px;
+}
+
+.section3Style {
+
+    padding-left: 3%;
+    margin-bottom: 150px;
+
+}
+
+.half-widht3 {
+    width: 100%;
+    display: flex;
+}
+
+.box1 {
+
+    padding: 20px;
+    margin-left: 2%;
+    margin-right: 1%;
+    box-shadow: 10px 10px 40px gray;
+}
+
+.footstyle {
+    text-align: center;
+}
